@@ -1,1 +1,5 @@
-print("Hello there, Ralph Maron Eda is here!")
+def get_data(url: str) -> dict:
+    {
+
+    }
+    print

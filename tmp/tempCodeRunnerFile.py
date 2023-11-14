@@ -1,0 +1,2 @@
+
+        print("pineapple" in fruits)

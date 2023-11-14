@@ -1,5 +1,2 @@
-def get_data(url: str) -> dict:
-    {
 
-    }
-    print
+print("Ralph Maron Eda is cute lol")
